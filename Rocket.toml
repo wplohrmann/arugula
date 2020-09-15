@@ -1,0 +1,5 @@
+[global.databases]
+recipes_db = { url = "../ill-be-your-server/recipes.db" }
+
+[development]
+template_dir = "templates/"
